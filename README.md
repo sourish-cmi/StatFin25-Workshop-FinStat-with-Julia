@@ -1,2 +1,2 @@
-# StatFin25-Workshop-FinStat-with-Julia
-All notebooks with julia code for StatFin25 workshop
+# StatFin25 Workshop Financial Statistics with Julia
+All notebooks with `Julia` code for StatFin25 workshop
