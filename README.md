@@ -13,4 +13,4 @@ Papers:
 
 [1] Sparse Portfolio selection via Bayesian Multiple testing, (2020), Sourish Das and Rituparna Sen, Sankhya - B  [Preprint](https://arxiv.org/abs/1705.01407)
 
-[2]
+[2] A Statistical Machine Learning Approach to Yield Curve Forecasting, (2017), Rajiv Sambasivan and Sourish Das, IEEE Proc. ICCIDS-2017, DOI: 10.1109/ICCIDS.2017.8272667, [Preprint](https://arxiv.org/pdf/1703.01536) [Python Code](https://github.com/cmimlg/YieldCurveModeling)
